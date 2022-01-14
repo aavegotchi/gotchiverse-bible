@@ -24,7 +24,7 @@ These issues are mainly related to building out infrastructure capable of scalin
 
 We are excited to announce that R&D on these fronts has proven fruitful, and our development team is confident in the following release schedule.
 
-### Gotchiverse 2022 Release Schedule
+### Gotchiverse Citaadel Release Schedule
 #### Stress Test 2 - January 28th
 A replica of Stress Test 1 (ST1) that should be much smoother, with less lag and fewer bugs. \
 *Map size: Small test area*
