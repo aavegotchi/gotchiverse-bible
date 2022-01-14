@@ -5,10 +5,11 @@
 ## What is this document?
 The Gotchiverse Game Bible is an external-facing Game Design document that gives detailed information about gameplay, economy, and building within the Gotchiverse game.
 
-The information published within this document may generally be considered to fall into two categories: "confirmed and immutable", and "confirmed, but not immutable".
+The information published within this document may generally be considered to fall into two categories: **confirmed and immutable**, and **confirmed, but not immutable**.
 
-Confirmed and immutable means that the published information will **not** change, except via DAO vote.
-Confirmed, but not immutable means the information is generally confirmed, but could change if underlying assumptions change. Any changes will be published on all official channels.
+**Confirmed and immutable** means that the published information will **not** change, except via DAO vote.
+
+**Confirmed, but not immutable** means the information is generally confirmed, but could change if underlying assumptions change. Any changes will be published on all official channels.
 
 ---
 
