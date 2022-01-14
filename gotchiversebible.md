@@ -7,7 +7,7 @@ Confirmed, but not immutable means the information is generally confirmed, but c
 
 ---
 
-## Chapter 1: Gotchiverse Release Schedule
+## 📖 Chapter 1: Gotchiverse Release Schedule
 *Confirmed, but not immutable* 
 
 The Gotchiverse is a cutting-edge piece of software that features real time gameplay across an open world, combined with onchain "play-to-earn" game mechanics, powered by the blockchain.
@@ -19,26 +19,26 @@ These issues are mainly related to building out infrastructure capable of scalin
 We are excited to announce that R&D on these fronts has proven fruitful, and our development team is confident in the following release schedule.
 What scaling looks like
 
-## Gotchiverse 2022 Release Schedule
-### Stress Test 2 - January 28th
+### Gotchiverse 2022 Release Schedule
+#### Stress Test 2 - January 28th
 A replica of Stress Test 1 (ST1) that should be much smoother, with less lag and fewer bugs.
 *Map size: Small test area*
 Stress Test 3 - Mid-February
 An initial test of "Area of Interest" scaling that breaks the map into smaller chunks for scaling.
 *Map size: One District*
 
-### Gotchiverse Land Auction / Raffle 3 - Late February
+#### Gotchiverse Land Auction / Raffle 3 - Late February
 The third Aavegotchi Land Auction / Raffle combo will be held in late February and feature 10,000 Parcels up for grabs in various Districts.
 Citaadel Live Test - Early-Mid March
 The first release of the Citaadel with real Alchemica. Will support Alchemica pickups and "Save Points" to exit Alchemica from ingame to onchain. No Parcels or Installation equipping will be supported in this release.
 Map size: One District
-### Gotchi Lending is Live! - March
+#### Gotchi Lending is Live! - March
 Audited and perfected, Gotchi Lending will be launched in March to allow us to scale up the number of players that can be online at any time.
 The Gotchiverse - Late March / Early April
 The Full Citaadel you've all been waiting for! Parcel access, installations, and harvesting will all be live in this release.
 Map size: Entire Citaadel
-### Traits Release - April
+#### Traits Release - April
 Aavegotchi traits (explained in an upcoming chapter) will be added to gameplay in this release.
 
-### Grid Release 1 - Early Q3 2022
+#### Grid Release 1 - Early Q3 2022
 The first release of the Grid (and Lickquidators) will come in early Q3 2022.
