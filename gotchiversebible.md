@@ -48,7 +48,7 @@ The Full Citaadel you've all been waiting for! Parcel access, installations, and
 *Map size: Entire Citaadel*
 
 #### Traits Release - April
-Aavegotchi traits (explained in an upcoming chapter) will be added to gameplay in this release.
+Aavegotchi traits (explained in an upcoming chapter) will be added to gameplay in this release. Support for weapons will also be added, time permitting.
 
 #### Grid Release 1 - Early Q3 2022
 The first release of the Grid (and Lickquidators) will come in early Q3 2022.
