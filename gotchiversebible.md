@@ -1,6 +1,5 @@
----
-title: The Gotchiverse Game Bible
----
+[//]: # (Title: The Gotchiverse Game Bible)  
+[//]: # (Author: Pixelcraft Studios)     
 
 # The Gotchiverse Game Bible
 ## What is this document?
