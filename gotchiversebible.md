@@ -29,7 +29,7 @@ We are excited to announce that R&D on these fronts has proven fruitful, and our
 A replica of Stress Test 1 (ST1) that should be much smoother, with less lag and fewer bugs. \
 *Map size: Small test area*
 
-Stress Test 3 - Mid-February
+#### Stress Test 3 - Mid-February
 An initial test of "Area of Interest" scaling that breaks the map into smaller chunks for scaling. \
 *Map size: One District*
 
