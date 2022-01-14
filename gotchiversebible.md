@@ -62,4 +62,4 @@ Come back in two weeks for Chapter 2, where we'll learn about Parcel Surveying, 
 
 ## Get Involved
 
-Use the "Issues" feature of Github to ask questions, make suggestions, or share your thoughts on the GB! 
+Use the [Issues](https://github.com/aavegotchi/gotchiverse-bible/issues) feature of Github to ask questions, make suggestions, or share your thoughts on the GB! 
