@@ -1,3 +1,7 @@
+---
+title: The Gotchiverse Game Bible
+---
+
 # The Gotchiverse Game Bible
 ## What is this document?
 The Gotchiverse Game Bible is an external-facing Game Design document that gives detailed information about gameplay, economy, and building within the Gotchiverse game.
