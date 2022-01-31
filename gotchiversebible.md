@@ -148,7 +148,7 @@ Each type Haarvester is capable of harvesting one type of Alchemica, and each Re
 
 Spillover is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades. 
 
-You can consult the Recipe Book here to see exact Harvest Rates, Capacities, and Spillover Rates. 
+You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates. 
 Removing Installations
 Once an Installation is added to a Parcel, it can be upgraded or removed. Removing the Installation destroys the underlying NFT, but returns 50% of all Alchemica spent on the Installation and its upgrades to the original owner. 
 
