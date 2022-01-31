@@ -99,7 +99,7 @@ The range of Alchemica available for each Parcel Type is listed below, for the e
 Note that total Alchemica within a Parcel is cumulative, which means future Surveyings will add additional Alchemica on top of the total. 
 
 #### Surveying Alchemica Range 
-The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x% of the average. 
+The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average. 
 
 For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473. 
 
